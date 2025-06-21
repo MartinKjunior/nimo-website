@@ -1,8 +1,9 @@
 ---
-name: Professor Laura Parkes
+name: Laura Parkes
 image: images/photo.jpg
+description: Principle Investigator
 role: principal-investigator
-affiliation: Division of Psychology, Communication and Human Neuroscience, The University of Manchester
+affiliation: Professor of Neuroimaging, The University of Manchester
 aliases:
   
 links:
