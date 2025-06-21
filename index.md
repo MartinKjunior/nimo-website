@@ -3,7 +3,7 @@
 
 # NeuroImaging and MOdelling group
 
-Our research focusses on development and application neuroimaging and modelling approaches to study brain physiology.
+Our research focusses on development and application of neuroimaging and modelling approaches to study brain physiology.
 
 {% include section.html %}
 
@@ -75,8 +75,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   image="images/photo.jpg"
   link="projects"
   title="Our Projects"
-  flip=true
-  style="bare"
   text=text
 %}
 
