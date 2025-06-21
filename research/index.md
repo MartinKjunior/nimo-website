@@ -7,8 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our research focusses on development and application neuroimaging and modelling approaches to study brain physiology. The group is composed of multiple PIs with research spanning measurements of cerebrovascular (dys)function, brain microstructure, brain circuits and connectivity and glymphatic function. The group predominantly uses magnetic resonance imaging, however other approaches such as EEG, multiphoton microscopy, and functional ultrasound are developed and used. 
 
 {% include section.html %}
 
