@@ -1,14 +1,15 @@
 ---
-name: Juan Sebastian Bermudez Paz
+name: Paulina Villasenor
 image: images/photo.jpg
 role: phd
 description: PhD Student
 group: Dickie
 links:
-  home-page: https://personalpages.manchester.ac.uk/advanced.php?dn=cn%3DJuan+sebastian+Bermudez+paz%2Bumanroleid%3D1319781%2Cou%3DDivision+of+Informatics%5C%2C+Imaging+%26+Data+Sciences%2Cou%3DSchool+of+Health+Sciences%2Cou%3DFaculty+of+Biology%5C%2C+Medicine+and+Health%2Cou%3DPeople%2Co%3DUniversity+of+Manchester%2Cc%3DGB&employeeType=&action=read&form_input=Submit
-  orcid: 0000-0001-6153-6704
-  github: john-doe
-  googlescholar: https://scholar.google.com/citations?user=lNxg3TMAAAAJ&hl=en
+  email: paulinaj.villasenor@postgrad.manchester.ac.uk
+  home-page: https://personalpages.manchester.ac.uk/advanced.php?dn=cn%3DPaulina+Jael+Villasenor%2Bumanroleid%3D1377954%2Cou%3DSchool+of+Biological+Sciences%2Cou%3DFaculty+of+Biology%5C%2C+Medicine+and+Health%2Cou%3DPeople%2Co%3DUniversity+of+Manchester%2Cc%3DGB&employeeType=Postgraduate&action=read&form_input=Submit
+  orcid: 0009-0001-7928-9390
+  github: 
+  google-scholar: https://scholar.google.com/citations?user=5wL88ysAAAAJ&hl=en
 ---
 
 Add description
