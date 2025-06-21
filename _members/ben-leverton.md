@@ -1,7 +1,7 @@
 ---
 name: Ben Leverton
 image: images/photo.jpg
-description: Research technician
+description: Research technician (Preclinical)
 role: technician
 links:
   email: ben.leverton@manchester.ac.uk
