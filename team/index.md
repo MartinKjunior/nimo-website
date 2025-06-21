@@ -13,12 +13,19 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filter="role == 'principal-investigator'" %}
+## Principle Investigators
+{% include list.html data="members" component="portrait" filter="name == 'Laura Parkes'" %}
+{% include list.html data="members" component="portrait" filter="name == 'Ben Dickie'" %}
+
+## Junior Fellows and Postdoctoral Researchers
 {% include list.html data="members" component="portrait" filter="role == 'postdoc'" %}
+
+## Technical Support Staff
 {% include list.html data="members" component="portrait" filter="role == 'experimental-officer'" %}
 {% include list.html data="members" component="portrait" filter="role == 'technician'" %}
-{% include list.html data="members" component="portrait" filter="role == 'phd'" %}
 
+## PhD Students
+{% include list.html data="members" component="portrait" filter="role == 'phd'" %}
 
 {% include section.html background="images/background.jpg" dark=true %}
 
