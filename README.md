@@ -5,6 +5,6 @@
 
   # nimo-group's Website
 
-  Visit **[website url](#)** 🚀
+  Visit **[nimo-group.github.io/nimo-website](https://nimo-group.github.io/nimo-website)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
