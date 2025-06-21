@@ -1,11 +1,11 @@
 ---
-name: Sarah Johnson
+name: Ben Leverton
 image: images/photo.jpg
-description: Lead Programmer
-role: programmer
+description: Research Technician
+role: technician
 links:
-  email: sarah.johnson@gmail.com
-  twitter: sarahjohnson
+  email: ben.leverton@manchester.ac.uk
+  twitter: 
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
