@@ -9,5 +9,4 @@ links:
   home-page: 
   email: 
   twitter: 
-order: 3
 ---

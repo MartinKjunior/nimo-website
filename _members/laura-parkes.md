@@ -11,7 +11,6 @@ links:
   home-page: https://research.manchester.ac.uk/en/persons/laura.parkes
   orcid: 0000-0001-6488-507X
   google-scholar: https://scholar.google.com/citations?user=uQbaMicAAAAJ&hl=en
-order: 1
 ---
 # Biography
 
