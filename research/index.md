@@ -11,9 +11,21 @@ Our research focusses on development and application neuroimaging and modelling 
 
 {% include section.html %}
 
-## Highlighted
+## Latest
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+{% assign latest = site.data.citations | sort: "date" | reverse | first %}
+{% include citation.html
+  id=latest.id
+  title=latest.title
+  authors=latest.authors
+  publisher=latest.publisher
+  date=latest.date
+  link=latest.link
+  orcid=latest.orcid
+  plugin=latest.plugin
+  file=latest.file
+  style="rich"
+%}
 
 {% include section.html %}
 

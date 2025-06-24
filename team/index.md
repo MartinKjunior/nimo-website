@@ -16,6 +16,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 ## Principle Investigators
 {% include list.html data="members" component="portrait" filter="name == 'Laura Parkes'" %}
 {% include list.html data="members" component="portrait" filter="name == 'Ben Dickie'" %}
+{% include list.html data="members" component="portrait" filter="name == 'Caroline Lea-Carnall'" %}
 
 ## Junior Fellows and Postdoctoral Researchers
 {% include list.html data="members" component="portrait" filter="role == 'postdoc'" %}
