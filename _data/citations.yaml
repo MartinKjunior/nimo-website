@@ -1,21 +1,5 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1161/STROKEAHA.125.050848
-  title: Comparison of the Novel Thrombolytic Constitutively Active ADAMTS13 With
-    Clinical Thrombolytics in a Murine Stroke Model
-  authors:
-  - Lucy Roberts
-  - Graham Coutts
-  - Ben R. Dickie
-  - Craig J. Smith
-  - Kieron South
-  - Stuart M. Allan
-  publisher: Stroke
-  date: '2025-06-01'
-  link: https://doi.org/g9q2jb
-  orcid: 0000-0001-5018-2111
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1177/0271678X251318923
   title: "Early metabolic changes in the brain of Alzheimer\u2019s disease rats are\
     \ driven by GLAST+ cells"
@@ -33,6 +17,22 @@
   publisher: Journal of Cerebral Blood Flow &amp; Metabolism
   date: '2025-02-07'
   link: https://doi.org/g9q2jc
+  orcid: 0000-0001-5018-2111
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1161/STROKEAHA.125.050848
+  title: Comparison of the Novel Thrombolytic Constitutively Active ADAMTS13 With
+    Clinical Thrombolytics in a Murine Stroke Model
+  authors:
+  - Lucy Roberts
+  - Graham Coutts
+  - Ben R. Dickie
+  - Craig J. Smith
+  - Kieron South
+  - Stuart M. Allan
+  publisher: Stroke
+  date: '2025-06-01'
+  link: https://doi.org/g9q2jb
   orcid: 0000-0001-5018-2111
   plugin: orcid.py
   file: orcid.yaml
@@ -350,6 +350,27 @@
   date: '2015-10-19'
   link: https://doi.org/f9dhmb
   orcid: 0000-0001-5018-2111
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41598-022-23826-1
+  title: Photoacoustic imaging is a novel tool to measure finger artery structure
+    and oxygenation in patients with SSc
+  authors:
+  - Sarah Wilkinson
+  - James Cummings
+  - Sakif Zafar
+  - Martin Kozar
+  - Joanne Manning
+  - Graham Dinsdale
+  - Michael Berks
+  - Christopher Taylor
+  - Mark Dickinson
+  - Ariane L. Herrick
+  - Andrea K. Murray
+  publisher: Scientific Reports
+  date: '2022-11-28'
+  link: https://doi.org/g9vjb8
+  orcid: 0000-0002-6246-8288
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1007128
